@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">laprak_firebase</string>
+    <string name="reg">Don’t have an account?</string>
+    <string name="register2"><b>Register</b></string>
+    <string name="welcome">Welcome Back</string>
+    <string name="tagline">Enjoy a new world inside a book!</string>
+    <string name="maintenance_txt">COMING SOON</string>
+    <string name="mt_text">We are still working on it.</string>
+    <string name="maintenance_btn">Go to Homepage</string>
+    <string name="Signup">Sign Up</string>
+    <string name="log_out">Log Out</string>
+</resources>
